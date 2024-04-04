@@ -1,0 +1,11 @@
+E:\iamenjoying\now\cntt\cntt hcmus\mon-hoc\nhap-mon-lap-trinh\practice\StoreManagementWFA\StoreManagementWFA\bin\Debug\StoreManagementWFA.exe.config
+E:\iamenjoying\now\cntt\cntt hcmus\mon-hoc\nhap-mon-lap-trinh\practice\StoreManagementWFA\StoreManagementWFA\bin\Debug\StoreManagementWFA.exe
+E:\iamenjoying\now\cntt\cntt hcmus\mon-hoc\nhap-mon-lap-trinh\practice\StoreManagementWFA\StoreManagementWFA\bin\Debug\StoreManagementWFA.pdb
+E:\iamenjoying\now\cntt\cntt hcmus\mon-hoc\nhap-mon-lap-trinh\practice\StoreManagementWFA\StoreManagementWFA\obj\Debug\StoreManagementWFA.csproj.AssemblyReference.cache
+E:\iamenjoying\now\cntt\cntt hcmus\mon-hoc\nhap-mon-lap-trinh\practice\StoreManagementWFA\StoreManagementWFA\obj\Debug\StoreManagementWFA.csproj.SuggestedBindingRedirects.cache
+E:\iamenjoying\now\cntt\cntt hcmus\mon-hoc\nhap-mon-lap-trinh\practice\StoreManagementWFA\StoreManagementWFA\obj\Debug\StoreManagementWFA.StoreManagement.resources
+E:\iamenjoying\now\cntt\cntt hcmus\mon-hoc\nhap-mon-lap-trinh\practice\StoreManagementWFA\StoreManagementWFA\obj\Debug\StoreManagementWFA.Properties.Resources.resources
+E:\iamenjoying\now\cntt\cntt hcmus\mon-hoc\nhap-mon-lap-trinh\practice\StoreManagementWFA\StoreManagementWFA\obj\Debug\StoreManagementWFA.csproj.GenerateResource.cache
+E:\iamenjoying\now\cntt\cntt hcmus\mon-hoc\nhap-mon-lap-trinh\practice\StoreManagementWFA\StoreManagementWFA\obj\Debug\StoreManagementWFA.csproj.CoreCompileInputs.cache
+E:\iamenjoying\now\cntt\cntt hcmus\mon-hoc\nhap-mon-lap-trinh\practice\StoreManagementWFA\StoreManagementWFA\obj\Debug\StoreManagementWFA.exe
+E:\iamenjoying\now\cntt\cntt hcmus\mon-hoc\nhap-mon-lap-trinh\practice\StoreManagementWFA\StoreManagementWFA\obj\Debug\StoreManagementWFA.pdb
